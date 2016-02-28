@@ -1,0 +1,22 @@
+## Variables in tidy data
+# 1 excersice id
+# 2 Subject ID
+# 3 mean of timebodyaccmagnitude
+# 4 standard deviation of timebodyaccmagnitude
+# 5 mean of timegravityaccmagnitude
+# 6 standard deviation of timegravityaccmagnitude
+# 7 mean of timebodyAccjerkmagnitude
+# 8 standard deviation of timebodyAccjerkmagnitude
+# 9 mean of timebodygyroMag
+#10 standard deviation of timebodygyroMag
+# 11 mean of timebodygyrojerkmagnitude
+# 12 standard deviation of timebodygyrojerkmagnitude
+# 13 mean of freqbodyaccmagnitude
+# 14 standard deviation of freqbodyaccmagnitude
+# 15 mean of freqbodyAccjerkmagnitude
+# 16 standard deviation of freqbodyAccjerkmagnitude
+# 17 mean of freqbodygyroMag
+# 18 standard deviation of freqbodygyroMag
+# 19 mean of freqbodygyrojerkmagnitude
+# 20 standard deviation of freqbodygyrojerkmagnitude
+# 21 Excersise type
